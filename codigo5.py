@@ -1,0 +1,4 @@
+numbers = [10, 7, 6, 5, 4]
+
+print(numbers)
+
